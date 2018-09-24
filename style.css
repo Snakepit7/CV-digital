@@ -36,8 +36,9 @@
    background: #1b435e;
    }
 
-#backimg1 {
-  color:white;
-  background-color:white;
-  background-image:url(https://unsplash.com/photos/OtFKJf3MXXo);
+.body {
+  background-image: url(https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-1.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
