@@ -37,8 +37,9 @@
    }
 
 .body {
-  background-image: url(https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-1.jpg);
+  background-image: url(/home/julienf/Bureau/galaxy-wallpaper-1.jpg);
   background-position: top left;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
 }
